@@ -1,0 +1,47 @@
+.wrap {
+    max-width: 1920px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header, section, footer {
+    width: 100%;
+}
+
+.title {
+    font-size: 65px;
+    font-weight: 700;
+    color: #3F2021;
+}
+
+.subtitle {
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 55px;
+}
+
+.subtext {
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #AB9794;
+}
+
+.learn_more {
+    width: fit-content;
+    padding: 10px 40px;
+    border-radius: 40px;
+    margin-top: 50px;
+    background-color: #C8102E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.learn_more a {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
