@@ -1,5 +1,6 @@
 # ☕ Tim Hortons Website Redesign
 A new UI design for the Tim Hortons website, created in **August 2023**.
+* Note: Designed for an optimal viewing experience on **1920x1080 resolution** screens.
 
 ---
 
@@ -11,7 +12,6 @@ This is a **frontend-only** redesign of the Tim Hortons website, focusing on an 
 ## 🎨 Key Features
 - Modernized and responsive **UI design**.
 - Built using **HTML, CSS, and JavaScript (jQuery)**.
-* Note: Designed for an optimal viewing experience on **1920x1080 resolution** screens.
 
 ---
 
