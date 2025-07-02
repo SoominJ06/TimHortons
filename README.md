@@ -15,6 +15,12 @@ This is a **frontend-only** redesign of the Tim Hortons website, focusing on an 
 
 ---
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/89b03a59-77d9-495c-a279-f5e5e5e55f92
+
+---
+
 ## 💻 Technologies Used
 - **HTML** – Structure of the web pages.
 - **CSS** – Styling and layout enhancements.
